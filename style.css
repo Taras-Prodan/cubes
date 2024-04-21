@@ -1,0 +1,134 @@
+* {
+  box-sizing: border-box;
+}
+.cube-1 {
+  width: 100px;
+  height: 100px;
+  background-color: silver;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.cube-2 {
+  width: 100px;
+  height: 100px;
+  background-color: silver;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+.circle-1 {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: black;
+}
+.circle-2 {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: black;
+}
+.circle-3 {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: black;
+  align-self: flex-end;
+}
+.cube-3 {
+  width: 100px;
+  height: 100px;
+  background-color: silver;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+.circle-4 {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: black;
+}
+.circle-5 {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: black;
+  align-self: center;
+}
+.circle-6 {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: black;
+  align-self: flex-end;
+}
+.cube-4 {
+  width: 100px;
+  height: 100px;
+  background-color: silver;
+  border-radius: 10px;
+  display: flex;
+  align-items: flex-end;
+  padding: 10px;
+}
+.cube-item-4 {
+  display: flex;
+  justify-content: space-between;
+}
+.circle-7 {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: black;
+}
+.circle-8 {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: black;
+}
+.circle-9 {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: black;
+}
+.circle-10 {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: black;
+}
+
+.cube-5 {
+  width: 100px;
+  height: 100px;
+  background-color: silver;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.cube-6 {
+  width: 100px;
+  height: 100px;
+  background-color: silver;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  padding: 10px;
+  justify-content: center;
+  align-items: center;
+}
+.circle-12 {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: black;
+}
